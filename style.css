@@ -137,7 +137,7 @@ section{
 
 .banner{
     min-height: 80vh;
-    background-image: url('Lohit-river-Near-Roing-scaled.jpg');
+    background:url(Lohit-river-Near-Roing-scaled.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     display: grid;
@@ -379,7 +379,7 @@ section{
 }
 
 .contact{
-    background:url(../images/contact-bg.jpg) no-repeat;
+    background:url(contact-bg.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -459,6 +459,17 @@ section{
 .footer .follow a:hover{
     background:var(--orange);
 }
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* media queries  */
